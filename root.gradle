@@ -7,7 +7,7 @@ ext.library['cdi_weld'] = "org.jboss.weld.servlet:weld-servlet-core:2.1.2.Final"
 ext.library['cdi'] = "org.jboss.weld:weld-core-impl:2.1.2.Final"
 
 //== EEEEEE ==
-ext.library['eclipselink'] = "org.eclipse.persistence:javax.persistence:2.1.0"
+ext.library['eclipselink'] = "org.eclipse.persistence:eclipselink:2.5.2"
 
 //== FFFFFF ==
 ext.library['flyway_core'] = "com.googlecode.flyway:flyway-core:2.3.1"
