@@ -43,7 +43,7 @@ ext.library['sanitizer'] = "com.googlecode.owasp-java-html-sanitizer:owasp-java-
 //== VVVVVV ==
 ext.library['vraptor'] = "br.com.caelum:vraptor:4.0.0.Final"
 ext.library['vraptor_javatime'] = "br.com.caelum.vraptor:vraptor-javatime:4.0.0.Final"
-ext.library['vraptor_brutauth'] = "br.com.caelum.vraptor:vraptor-brutauth:4.0.1"
+ext.library['vraptor_shiro'] = "br.com.caelum.vraptor:vraptor-shiro:4.0.0-RC2"
 
 ext.library['validation'] = "org.hibernate:hibernate-validator-cdi:5.1.1.Final"
 
