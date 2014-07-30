@@ -40,7 +40,7 @@ ext.library['mysql_driver'] = "mysql:mysql-connector-java:5.1.30"
 ext.library['slf4j'] = "org.slf4j:slf4j-api:1.6.6"
 ext.library['sanitizer'] = "com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer:r223"
 
-ext.library['ssolution-commons'] = "com.sifionsolution:ssolution-commons:1.0"
+ext.library['ssolution_commons'] = "com.sifionsolution:ssolution-commons:1.0"
 
 //== VVVVVV ==
 ext.library['vraptor'] = "br.com.caelum:vraptor:4.0.0.Final"
