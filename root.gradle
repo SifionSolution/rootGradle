@@ -15,6 +15,12 @@ ext.library['flyway_core'] = "com.googlecode.flyway:flyway-core:2.3.1"
 //== GGGGGG ==
 ext.library['gson'] = "com.google.code.gson:gson:2.2.4"
 
+//== HHHHHHH ==
+ext.library['hibernate_validator'] = "org.hibernate:hibernate-validator:4.2.0.Final"
+ext.library['hibernate_core'] = "org.hibernate:hibernate-core:4.1.11.Final"
+ext.library['hibernate_c3p0'] = "org.hibernate:hibernate-c3p0:4.1.11.Final"
+ext.library['hibernate_validator'] = "org.hibernate:hibernate-validator:5.0.1.Final"
+
 //== IIIIII ==
 ext.library['inject'] = "javax.inject:javax.inject:1"
 ext.library['i18n'] = "net.vidageek:i18n:0.5"
@@ -29,6 +35,12 @@ ext.library['javax_validation'] = "javax.validation:validation-api:1.1.0.Final"
 ext.library['junit'] = "junit:junit:4.11"
 ext.library['jmockito'] = "org.mockito:mockito-all:1.9.5"
 ext.library['javassist'] = "org.javassist:javassist:3.18.1-GA"
+
+ext.library['joda_time'] = "joda-time:joda-time:2.2"
+ext.library['joda_time_hibernate'] = "joda-time:joda-time-hibernate:1.3"
+
+ext.library['jersey'] = "org.glassfish.jersey:project:2.13"
+ext.library['jersey_jettison'] = "org.glassfish.jersey.media:jersey-media-json-jettison:2.13"
 
 //== LLLLLL ==
 ext.library['log4j'] = "log4j:log4j:1.2.17"
