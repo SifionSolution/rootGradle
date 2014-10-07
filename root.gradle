@@ -56,6 +56,7 @@ ext.library['sanitizer'] = "com.googlecode.owasp-java-html-sanitizer:owasp-java-
 ext.library['ssolution_commons'] = "com.sifionsolution:ssolution-commons:1.1"
 
 //== VVVVVV ==
+ext.library['vraptor3'] = "br.com.caelum:vraptor:3.5.3"
 ext.library['vraptor'] = "br.com.caelum:vraptor:4.0.0.Final"
 ext.library['vraptor_javatime'] = "br.com.caelum.vraptor:vraptor-javatime:4.0.0.Final"
 ext.library['vraptor_brutauth'] = "br.com.caelum.vraptor:vraptor-brutauth:4.0.1"
