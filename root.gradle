@@ -18,7 +18,9 @@ ext.library['gson'] = "com.google.code.gson:gson:2.2.4"
 //== HHHHHHH ==
 ext.library['hibernate_core'] = "org.hibernate:hibernate-core:4.1.11.Final"
 ext.library['hibernate_c3p0'] = "org.hibernate:hibernate-c3p0:4.1.11.Final"
-ext.library['hibernate_validator'] = "org.hibernate:hibernate-validator:5.1.1.Final"
+
+ext.library['hibernate_validator'] = "org.hibernate:hibernate-validator:5.1.2.Final"
+ext.library['hibernate_validator_cdi'] = "org.hibernate:hibernate-validator-cdi:5.1.2.Final"
 
 //== IIIIII ==
 ext.library['inject'] = "javax.inject:javax.inject:1"
@@ -63,7 +65,6 @@ ext.library['vraptor_jodatime'] = "br.com.caelum.vraptor:vraptor-jodatime:4.0.0.
 
 ext.library['vraptor_encryptor'] = "com.sifionsolution:vraptor-encryptor:1.0"
 
-ext.library['validation'] = "org.hibernate:hibernate-validator-cdi:5.1.1.Final"
 
 // Force all dependency versions to be the ones listed here
 configurations.all{
