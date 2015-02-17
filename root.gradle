@@ -52,6 +52,7 @@ ext.library['slf4j_simple'] = "org.slf4j:slf4j-simple:1.7.7"
 
 //== MMMMMM ==
 ext.library['mysql_driver'] = "mysql:mysql-connector-java:5.1.30"
+ext.library['mail'] = "javax.mail:mail:1.4.5"
 
 //== SSSSSS ==
 ext.library['slf4j'] = "org.slf4j:slf4j-api:1.6.6"
