@@ -45,6 +45,7 @@ ext.library['jersey'] = "org.glassfish.jersey:project:2.13"
 ext.library['jersey_client'] = "org.glassfish.jersey.core:jersey-client:2.13"
 ext.library['jersey_jackson'] = "org.glassfish.jersey.media:jersey-media-json-jackson1:2.13"
 ext.library['jersey_jettison'] = "org.glassfish.jersey.media:jersey-media-json-jettison:2.13"
+ext.library['jersey_multipart'] = "org.glassfish.jersey.media:jersey-media-multipart:2.13"
 
 //== LLLLLL ==
 ext.library['log4j'] = "log4j:log4j:1.2.17"
