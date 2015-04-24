@@ -7,6 +7,7 @@ ext.library['cdi_weld'] = "org.jboss.weld.servlet:weld-servlet-core:2.1.2.Final"
 ext.library['cdi'] = "org.jboss.weld:weld-core-impl:2.1.2.Final"
 ext.library['commons_email'] = "org.apache.commons:commons-email:1.3.1"
 ext.library['commons_fileupload'] = "commons-fileupload:commons-fileupload:1.3"
+ext.library['closure_compilar'] = "com.google.javascript:closure-compiler:v20150315"
 
 //== EEEEEE ==
 ext.library['eclipselink'] = "org.eclipse.persistence:eclipselink:2.5.2"
